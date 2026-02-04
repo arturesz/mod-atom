@@ -1,8 +1,8 @@
 {
-    "name": "mod-atom",
-    "displayName": "Enegia Atomu Mod",
+    "name": "Uranium",
+    "displayName": "Uran do pozyskiwania energii.",
     "author": "Artur",
-    "description": "Dodaje cos do gry.",
+    "description": "Dodaje uran do gry.",
     "version": "1.0",
     "minGameVersion": 154,
     "hidden": false,
