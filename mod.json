@@ -1,0 +1,10 @@
+{
+    "name": "mod-atom",
+    "displayName": "Enegia Atomu Mod",
+    "author": "Artur",
+    "description": "Dodaje cos do gry.",
+    "version": "1.0",
+    "minGameVersion": 147,
+    "hidden": false,
+    "main": "main"
+}

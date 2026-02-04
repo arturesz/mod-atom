@@ -1,0 +1,24 @@
+{
+ "type": "GenericCrafter",
+ "name": "Uranium",
+ "description" : "Free Uranium",
+
+ "requirements":[],
+ "category": "logic",
+ "research" : "uranium",
+
+ "size" : 1,
+ "health" : 10000,
+ 
+ "hasLiquids":false,
+ "itemCapacity": 2000000,
+ 
+ "craftTime":10,
+ "outputItems": ["uranium/100"],
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500
+
+}
