@@ -4,7 +4,7 @@
     "author": "Artur",
     "description": "Dodaje cos do gry.",
     "version": "1.0",
-    "minGameVersion": 147,
+    "minGameVersion": 154,
     "hidden": false,
     "main": "main"
 }
