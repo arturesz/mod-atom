@@ -1,6 +1,6 @@
 {
  "type": "GenericCrafter",
- "name": "Uranium",
+ "name": "uranium",
  "description" : "Free Uranium",
 
  "requirements":[],
