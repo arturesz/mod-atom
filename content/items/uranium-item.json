@@ -1,0 +1,8 @@
+{
+  "type": "item",
+  "name": "Uranium",
+  "description": "Radioaktywny surowiec do produkcji energii.",
+  "color": "82e02d",
+  "radioactivity": 1.5,
+  "explosiveness": 0.2
+}
